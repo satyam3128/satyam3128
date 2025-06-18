@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA AND WEB DEVELOPMENT**
+- 🌱 I’m currently learning **DSA**
 
 - ⚡ Fun fact **I am Satyam**
 
